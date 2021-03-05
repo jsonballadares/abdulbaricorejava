@@ -1,3 +1,5 @@
+package src;
+
 public class VarArgs {
     public static void show(int... A) {
         for (int x : A) {

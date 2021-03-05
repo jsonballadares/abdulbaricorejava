@@ -1,3 +1,5 @@
+package src;
+
 public class TypeOfWebsiteSwitch {
     public static void main(String[] args) {
         String url = "www.google.com";

@@ -1,3 +1,5 @@
+package src;
+
 public class RemoveSpecial {
     public static void main(String[] args) {
         String str = "     a!b@c     #1     $2%3";

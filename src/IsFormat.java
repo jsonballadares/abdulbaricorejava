@@ -1,3 +1,5 @@
+package src;
+
 public class IsFormat {
     public static void main(String[] args) {
         int b = 10110201;

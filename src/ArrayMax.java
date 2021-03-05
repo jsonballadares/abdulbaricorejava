@@ -1,3 +1,5 @@
+package src;
+
 public class ArrayMax {
     public static int max(int[] A) {
         int max = Integer.MIN_VALUE;

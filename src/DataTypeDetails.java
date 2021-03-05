@@ -1,3 +1,5 @@
+package src;
+
 public class DataTypeDetails {
     public static void main(String[] args) {
         int x = -5;

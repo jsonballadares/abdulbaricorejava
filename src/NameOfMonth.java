@@ -1,3 +1,5 @@
+package src;
+
 public class NameOfMonth {
     public static void main(String[] args) {
         int day = 1;

@@ -1,3 +1,5 @@
+package src;
+
 public class PrintDay {
     public static void main(String[] args) {
         int day = 0;

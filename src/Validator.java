@@ -1,3 +1,5 @@
+package src;
+
 public class Validator {
     public static boolean validate(int age) {
         return age > 3 && age <= 15;

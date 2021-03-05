@@ -1,3 +1,5 @@
+package src;
+
 public class TypeOfWebsite {
     public static void main(String[] args) {
         String url = "http://www.google.com";

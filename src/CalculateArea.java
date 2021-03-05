@@ -1,3 +1,5 @@
+package src;
+
 public class CalculateArea {
     public static double area(double length, double breadth) {
         return length * breadth;

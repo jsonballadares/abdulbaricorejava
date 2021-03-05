@@ -1,3 +1,5 @@
+package src;
+
 public class Recursion {
     public static void fun(int x) {
         if (x > 0) {

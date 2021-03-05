@@ -1,3 +1,5 @@
+package src;
+
 import javax.management.openmbean.SimpleType;
 
 public class StringPractice {

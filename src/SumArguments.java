@@ -1,3 +1,5 @@
+package src;
+
 public class SumArguments {
     public static void main(String[] args) {
         int sum = 0;

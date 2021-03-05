@@ -1,3 +1,5 @@
+package src;
+
 public class PracticeSwitch {
     public static void main(String[] args) {
         int n = 3;

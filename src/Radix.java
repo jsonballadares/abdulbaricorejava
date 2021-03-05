@@ -1,3 +1,5 @@
+package src;
+
 public class Radix {
     public static void main(String[] args) {
         String bin = "010101";

@@ -1,3 +1,5 @@
+package src;
+
 class box {
     int width;
     int height;

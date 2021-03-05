@@ -1,3 +1,5 @@
+package src;
+
 public class StringEquals {
     public static void main(String[] args) {
         String str1 = "the great wall of china";

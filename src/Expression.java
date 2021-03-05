@@ -1,6 +1,6 @@
-import java.util.Scanner;
+package src;
 
-import javax.swing.text.AbstractDocument.LeafElement;
+import java.util.Scanner;
 
 /**
  * Expression
