@@ -3,6 +3,7 @@ package src;
 public class Bitwise {
     public static void main(String[] args) {
         storeTwoInNibble();
+
     }
 
     public static void swapBitWise() {

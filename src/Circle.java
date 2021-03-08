@@ -3,8 +3,8 @@ package src;
 /**
  * Circle
  */
-public class Circle {
-    private double radius;
+public class Circle extends Shape {
+    protected double radius;
 
     public double area() {
         return Math.PI * radius * radius;
