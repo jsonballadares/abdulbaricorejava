@@ -34,6 +34,7 @@ public class Rectangle extends Shape {
     }
 
     public void setBreadth(double b) {
+
         if (b >= 0)
             breadth = b;
         else
